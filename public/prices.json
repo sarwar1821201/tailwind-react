@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 50,
+      "features": [
+        "Standard hours access",
+        "Cardio equipment",
+        "Weight machines",
+        "1 free PT session/month"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "price": 80,
+      "features": [
+        "24/7 access",
+        "Cardio equipment",
+        "Weight machines",
+        "Free weights",
+        "2 free PT sessions/month",
+        "Unlimited classes"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Platinum",
+      "price": 120,
+      "features": [
+        "24/7 access",
+        "Cardio equipment",
+        "Weight machines",
+        "Free weights",
+        "5 free PT sessions/month",
+        "Unlimited classes",
+        "Sauna/steam room access",
+        "Complimentary towel service"
+      ]
+    }
+  ]
+  
